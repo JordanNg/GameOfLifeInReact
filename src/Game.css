@@ -1,0 +1,23 @@
+.generation__container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 40px;
+}
+
+.generation__label {
+  color: white;
+}
+
+.generation__button {
+  margin-top: 20px;
+  color: white;
+  padding: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-weight: 600;
+  font-size: 12pt;
+  border: solid 1px white;
+  border-radius: 3%;
+}
